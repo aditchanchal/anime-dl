@@ -29,16 +29,12 @@ Supports only https://www.kickassanime.rs at the moment.
    ```
 
 ### RUNNING SCRIPT
+
+- 1st Arguement: Link of the episode to download.
+- 2nd Arguement: No. of additional episodes to download in continuation to above episode.
+- 3rd Arguement: Choose video resolution.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/39438054/81859231-8e113180-9582-11ea-9be0-0af1777e99df.gif">
-</p>
-<p align="center">
-1. 1st Arguement: Link of the episode to download.
-</p>
-<p align="center">
-2. 2nd Arguement: No. of additional episodes to download in continuation to above episode.
-</p>
-<p align="center">
-3. 3rd Arguement: Choose video resolution.
 </p>
 
