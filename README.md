@@ -7,11 +7,11 @@ Supports only https://www.kickassanime.rs at the moment.
 ### With TOR
 	1. Follow https://www.scrapehero.com/make-anonymous-requests-using-tor-python/ to set up TOR module.
 	2. Make following changes to the python script: kickassanime_dl.py .
-	   - Add your password at line no. 42 (replace xxxxxxx).
+		- Add your password at line no. 42 (replace xxxxxxx).
 		```python
 		tr = TorRequest(password='xxxxxxx') # Enter your own password
 		```      
-	   - If you want to reset your IP or your requests are getting blocked then uncomment line no. 43.
+		- If you want to reset your IP or your requests are getting blocked then uncomment line no. 43.
 		```python
 		tr.reset_identity()
 		```  
