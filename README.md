@@ -24,3 +24,4 @@ Supports only https://www.kickassanime.rs at the moment.
 
 ## RUNNING SCRIPT
 --Will add a video soon--
+
