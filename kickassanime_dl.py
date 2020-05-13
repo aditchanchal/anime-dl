@@ -38,7 +38,7 @@ def print_end(text, color_code):
 print_start("CONFIGURING Anime-dl")
 
 # Setting up TOR
-tr = TorRequest(password='d4o15a1a1')
+tr = TorRequest(password='xxxxxxx') # Enter your own password
 # tr.reset_identity()
 
 # Setting up SELENIUM
