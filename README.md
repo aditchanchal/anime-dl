@@ -8,8 +8,8 @@ Supports only https://www.kickassanime.rs at the moment.
 	$ git clone https://github.com/aditchanchal/anime-dl
 
 ##### Without TOR/ With Requests
-	1. pip install -r requirements.txt
-	2. python3 kickassanime_dl_No_TOR.py
+	1. $ pip install -r requirements.txt
+	2. $ python3 kickassanime_dl_No_TOR.py
 	
 ##### With TOR
    1. Follow https://www.scrapehero.com/make-anonymous-requests-using-tor-python/ to set up TOR module.
@@ -21,9 +21,12 @@ Supports only https://www.kickassanime.rs at the moment.
       - If you want to reset your IP or your requests are getting blocked then uncomment line no. 43.
 		```python
 		tr.reset_identity()
-		```  
-   3. pip install -r requirements.txt
-   4. python3 kickassanime_dl.py
+		```
+   3. Run
+   ```bash
+	$ pip install -r requirements.txt
+	$ python3 kickassanime_dl.py
+   ```
 
-## RUNNING SCRIPT
+### RUNNING SCRIPT
 --Will add a video soon--
