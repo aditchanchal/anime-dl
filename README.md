@@ -5,6 +5,6 @@ Supports https://www.kickassanime.rs
 Setting up:
 1. pip install -r requirements.txt
 
-2. python3 kickassanime-dl_No_TOR.py
+2. python3 kickassanime_dl_No_TOR.py
 
 --Will add a video soon--
