@@ -8,7 +8,7 @@ import sys
 from tqdm import tqdm
 import time
 from selenium import webdriver
-from torrequest import TorRequest
+#from torrequest import TorRequest
 import json
 import math
 import pyfiglet
