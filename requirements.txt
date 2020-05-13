@@ -1,0 +1,7 @@
+tqdm==4.46.0
+selenium==3.141.0
+requests==2.22.0
+pyfiglet==0.8.post1
+m3u8==0.6.0
+torrequest==0.1.0
+beautifulsoup4==4.9.0
