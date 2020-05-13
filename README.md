@@ -29,4 +29,6 @@ Supports only https://www.kickassanime.rs at the moment.
    ```
 
 ### RUNNING SCRIPT
-![Anime-dl](https://user-images.githubusercontent.com/39438054/81859231-8e113180-9582-11ea-9be0-0af1777e99df.gif)
+<p align="center">
+![Anime-dl.gif](https://user-images.githubusercontent.com/39438054/81859231-8e113180-9582-11ea-9be0-0af1777e99df.gif)
+</p>
