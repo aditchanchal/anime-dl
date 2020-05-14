@@ -1,6 +1,6 @@
 # Anime-dl
 Python script to download anime via command line.
-Supports only https://www.kickassanime.rs at the moment.
+Supports only https://www.kickassanime.rs (DAILYMOTION server) at the moment.
 
 ### SETTING UP:
 
