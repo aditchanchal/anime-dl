@@ -151,7 +151,7 @@ def ts_downloader(title, resolution, ts_urls):
     size = 0
 
     # Multi-threading and progress bar
-    download_bar = tqdm(ThreadPool(8).imap(fetch_url, ts_urls), total=len(ts_urls), desc=episode + ' ' + resolution + 'p ' + str(size / (1024 * 1024)) + 'MB')
+    download_bar = tqdm(ThreadPool(14).imap(fetch_url, ts_urls), total=len(ts_urls), desc=episode + ' ' + resolution + 'p ' + str(size / (1024 * 1024)) + 'MB')
 
     with open(file_name, 'wb') as f:
         for result in download_bar:
